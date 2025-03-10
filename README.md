@@ -1,4 +1,4 @@
-# sistema-gestion-transporte
+# Sistema de Gestión de Transporte
 Repositorio para el proyecto final del curso Taller De Programación Web.
 
 ## Curso
@@ -9,13 +9,30 @@ Repositorio para el proyecto final del curso Taller De Programación Web.
 
 ## Tema
  Sistema de Gestión de Transporte
- - Descripción: Sistema para administrar una empresa de transporte.
- - Módulos:
-    - Gestión de vehículos: Registro y mantenimiento de vehículos.
-    - Gestión de rutas: Definición y optimización de rutas.
-    - Gestión de conductores: Administración de conductores y asignación de rutas.
-    - Gestión de cargas: Control de cargas y asignación de vehículos.
-    - Monitoreo de flota: Rastreo y seguimiento en tiempo real de vehículos.
+
+## Alcance del Proyecto
+El sistema de gestión de transporte es una aplicación web diseñada para optimizar y automatizar las operaciones de empresas de transporte. El sistema aborda las siguientes áreas clave:
+
+### Módulos Principales
+- **Gestión de vehículos**
+  - Registro y actualización de información de vehículos
+
+- **Gestión de rutas**
+  - Creación y modificación de rutas
+
+- **Gestión de conductores**
+  - Registro de conductores y datos personales
+
+- **Gestión de cargas**
+  - Registro de cargas y mercancías
+
+- **Monitoreo de flota**
+  - Seguimiento en tiempo real de vehículos
+
+### Características Técnicas
+- Interfaz web responsive
+- Base de datos relacional
+- Integración con mapas para seguimiento
 
 ## Integrantes
  - Diego Alonso Espinoza Ortiz
